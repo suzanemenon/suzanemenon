@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![LinkedIn](https://www.linkedin.com/in/suzanemenon)
+[LinkedIn](https://www.linkedin.com/in/suzanemenon)
 
 
 <!--
